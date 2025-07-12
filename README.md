@@ -38,7 +38,7 @@ The project was built as part of the **CODTECH Internship** and demonstrates bas
 
 ---
 
-## ▶️ How to Compile & Run
+## How to Compile & Run
 
 **Step 1:** Make sure SFML is installed. Then compile using:
 ```bash
@@ -54,7 +54,7 @@ Ensure that `assets/eat.wav` exists in the correct location.
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 
 ```
 SnakeGame_SFML/
@@ -66,18 +66,11 @@ SnakeGame_SFML/
 
 ---
 
-## 📸 Screenshots (Optional)
 
-*Add screenshots if available.*
 
----
+##  Project Highlights
 
-## 🚀 Project Highlights
+This game was entirely developed by me (Archana Kumari) as part of Task 3 for the CODTECH Internship. The project showcases a deep understanding of SFML graphics, real-time input handling, basic game development principles, and performance enhancement using increasing difficulty.
 
-This game was entirely developed by **Archana Kumari** as part of Task 3 for the CODTECH Internship. The project showcases a deep understanding of SFML graphics, real-time input handling, basic game development principles, and performance enhancement using increasing difficulty.
 
----
 
-## ✅ Submission Ready
-
-You can now upload this project to GitHub with this README.md file for proper presentation and originality.
